@@ -113,6 +113,7 @@ Dashboard ini mendukung:
 ├── data/            # Dataset
 ├── notebooks/       # Notebook analisis (main.ipynb)
 ├── model/           # Artefak model
+├── dashboard/       # Tableau Dashboard Project
 ├── app.py           # Aplikasi Streamlit
 ├── README.md        # Dokumentasi proyek
 └── requirements.txt # Dependensi Python
