@@ -79,7 +79,7 @@ Sebagai gambaran, dilakukan simulasi biaya berbasis asumsi historis dan referens
 Proyek ini dilengkapi dengan dashboard interaktif berbasis Tableau untuk memantau pola keterlambatan pengiriman dan tingkat risikonya.
 
 Tautan dashboard:
-https://public.tableau.com/app/profile/ferdio.giffary/viz/Book5-test_17689053833700/Dashboard1
+https://public.tableau.com/views/OlistMonitoringDashboard/Monitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Dashboard ini mendukung:
 - Monitoring tingkat keterlambatan dan severitasnya.
