@@ -92,7 +92,7 @@ Fitur utama aplikasi:
 Selain aplikasi prediksi, proyek ini dilengkapi dengan dashboard interaktif berbasis Tableau untuk memantau pola keterlambatan pengiriman dan tingkat risikonya.
 
 Tautan dashboard:
-https://public.tableau.com/views/OlistMonitoringDashboard/Monitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/OlistMonitoringDashboard/Monitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/OlistMonitoringDashboard/Monitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Dashboard ini mendukung:
 - Monitoring tingkat keterlambatan dan tingkat keparahannya.
@@ -113,6 +113,7 @@ Dashboard ini mendukung:
 ├── data/            # Dataset
 ├── notebooks/       # Notebook analisis (main.ipynb)
 ├── model/           # Artefak model
+├── dashboard/       # Tableau Dashboard Project
 ├── app.py           # Aplikasi Streamlit
 ├── README.md        # Dokumentasi proyek
 └── requirements.txt # Dependensi Python
